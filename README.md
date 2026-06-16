@@ -47,7 +47,7 @@ telecom-customer-churn-prediction/
 ## 🔬 ML Pipeline
 
 ### Dataset
-- **1,000,000** synthetic telecom customer records
+- **1,000,000** telecom customer records
 - **Churn rate:** 9.92% (1:9.1 imbalance)
 - **32 raw features** → **46 total features** after engineering
 
